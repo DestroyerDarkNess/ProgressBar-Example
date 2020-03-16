@@ -1,0 +1,10 @@
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\bin\Debug\BarradeProgreso.exe.config
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\bin\Debug\BarradeProgreso.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\bin\Debug\BarradeProgreso.pdb
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\bin\Debug\BarradeProgreso.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\obj\Debug\BarradeProgreso.Form1.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\obj\Debug\BarradeProgreso.Resources.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\obj\Debug\BarradeProgreso.vbproj.GenerateResource.Cache
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\obj\Debug\BarradeProgreso.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\obj\Debug\BarradeProgreso.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BarradeProgreso\BarradeProgreso\obj\Debug\BarradeProgreso.pdb
